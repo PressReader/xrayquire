@@ -1,0 +1,27 @@
+{
+  "name": "xrayquire",
+  "main": "xrayquire.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/PressReader/xrayquire",
+  "authors": [
+    "Yevgen Kartsev <yevgenk@pressreader.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs",
+    "xrayquire"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
